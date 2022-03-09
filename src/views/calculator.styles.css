@@ -1,0 +1,19 @@
+.size-results {
+    border-width: 2px;
+    color: white;
+    border-style: solid;
+    border-color: rgba(218, 218, 223, 0.48);
+    border-radius: 8px;
+    margin: auto;
+    background-color: rgba(65, 116, 76, 0.26);
+    width: 50%;
+    height: 50%;
+    padding: 1rem 0;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.size-calculator {
+    font-weight: bold;
+    font-size: 2rem;
+}

@@ -1,0 +1,26 @@
+.calculator-btn {
+    padding: 0.5rem;
+    border-radius: 0.2rem;
+    border-width: 0;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.calculator-btn-disabled {
+    background-color: rgba(169, 169, 169, 0.22);
+    color: rgba(40, 44, 52, 0.39);
+}
+
+.calculator-btn-enabled {
+    background-color: cadetblue;
+    color: white;
+}
+
+.calculator-btn-enabled:hover {
+    opacity: 85%;
+    cursor: pointer;
+}
+
+.calculator-btn:active {
+    background-color: cornflowerblue;
+}
