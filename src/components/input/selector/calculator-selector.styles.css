@@ -1,0 +1,18 @@
+.calculator-selector {
+    padding: 0.5rem 0.8rem;
+    border-radius: 0.25rem;
+    border-width: 0.1rem;
+    font-size: 1.8rem;
+}
+
+.calculator-selector:focus {
+    background-color: rgba(168, 172, 183, 0.2);
+    border-width: 0.1rem;
+    color: white;
+}
+
+@media only screen and (max-width: 920px) {
+    .calculator-selector {
+        font-size: 1.1rem;
+    }
+}
